@@ -1,0 +1,6 @@
+*.bin
+*.elf
+*.list
+*.o
+*.uf2
+boot2_patch.*
